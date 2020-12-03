@@ -19,9 +19,9 @@ The character replacements are
 Char | Replacement
 ---- | -----------
 & | and
-+ | plus
+\+ | plus
 / | slash
-# | hash
+\# | hash
 @ | at
 . | dot
 
